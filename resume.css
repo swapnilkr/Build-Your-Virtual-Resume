@@ -264,13 +264,13 @@ section:target
 }
 .timeline-divider .timeline-traveller {
     position: sticky;
-    top: 135px;
+    top: 130px;
     z-index: 2;
 }
 
 .timeline-divider i {
     transform: rotate(90deg);
-    margin-top: -35px;
+    margin-top: -50px;
     display: block;
     color: #2857a4;
 }
